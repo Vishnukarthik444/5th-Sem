@@ -1,3 +1,3 @@
 # 5th-Sem
-# DBMS
-# Software Engineering
+DBMS
+Software Engineering
